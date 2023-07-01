@@ -1,0 +1,10 @@
+model,test_set,level,bleu,sari,bertscore_precision,bertscore_recall,bertscore_f1,sent_FRE,corpus_FRE
+src2src,DEplain-APA,document,34.247,17.637,0.583,0.605,0.595,61.411,58.85
+src2src,DEplain-web,document,23.132,12.848,0.432,0.569,0.498,56.877,59.4
+src2src,20Min,document,2.051,1.953,0.029,0.359,0.179,54.665,54.45
+src2src,DEplain-APA,sentence,26.893,15.249,0.627,0.642,0.633,59.23,58.75
+src2src,DEplain-web,sentence,20.854,11.931,0.423,0.489,0.455,60.825,62.95
+src2src,APA_LHA_A2,sentence,3.635,4.092,0.184,0.32,0.249,45.883,44.9
+src2src,APA_LHA_B1,sentence,6.18,5.325,0.236,0.34,0.286,45.32,44.9
+src2src,TCDE19,sentence,27.348,14.999,0.546,0.597,0.571,27.869,28.1
+src2src,Geolingo,sentence,67.116,26.812,0.856,0.891,0.873,60.829,61.5

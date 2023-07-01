@@ -1,0 +1,2 @@
+[console_scripts]
+easse = easse.cli:cli

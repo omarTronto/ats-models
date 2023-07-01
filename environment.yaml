@@ -1,0 +1,19 @@
+name: ats-models
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - pytorch-lightning==1.9.3
+      - transformers
+      - torch
+      - tensorboardX
+      - rouge_score
+      - sacrebleu
+      - datasets
+      - sentencepiece
+      - openpyxl
+      - numpy==1.23.1
